@@ -1,4 +1,5 @@
-A=23
+A=29
 B=14
-Z=A+B
+C=90
+Z=(A+B+C)
 print(Z)
